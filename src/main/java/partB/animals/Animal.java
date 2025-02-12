@@ -12,8 +12,6 @@ public class Animal {
     }
 
     public Integer getId() {
-
-
         return null;
     }
 

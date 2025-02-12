@@ -49,6 +49,9 @@ public class SavingBond {
         System.out.println(account.monthLeft);
         System.out.println(account.interest);
 
+        if (account.monthLeft == 0) {
+
+        }
         account.balance += account.earnInterest();
 
         //After stuff
