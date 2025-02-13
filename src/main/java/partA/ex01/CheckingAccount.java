@@ -19,7 +19,6 @@ public class CheckingAccount {
 
         System.out.println(user1.balance);
         System.out.println(user1.name);
-            }
-
+    }
 }
 
