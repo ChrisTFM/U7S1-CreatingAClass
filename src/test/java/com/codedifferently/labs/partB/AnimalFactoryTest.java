@@ -10,7 +10,6 @@ import java.util.Date;
 
 public class AnimalFactoryTest {
 
-
     public static Dog createDog(String name, Date birthDate) {
         Dog newDog = new Dog(name, birthDate, 1);
 
